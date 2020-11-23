@@ -18,7 +18,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="はじめてのアプリ first App" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1Rs-EW-6WK">
                                 <rect key="frame" x="87" y="409" width="240" height="78"/>
                                 <fontDescription key="fontDescription" name="Futura-Bold" family="Futura" pointSize="30"/>
-                                <color key="textColor" red="0.87280607880000005" green="0.097575984589999998" blue="0.75954463240000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" red="0.81098267605064756" green="0.37830818180932324" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
